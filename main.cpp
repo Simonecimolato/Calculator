@@ -1,3 +1,6 @@
+//Calculator
+//Simone Cimolato, 25/09/2016
+
 #include <iostream>
 using namespace std;
 
